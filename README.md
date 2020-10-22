@@ -20,3 +20,6 @@ Go to this link: [Pixel Art Maker!](https://briansegs.github.io/pixel-art-maker/
 #References
 
 * [For background image pixelation](https://onlinepngtools.com/pixelate-png)
+
+Preview:
+![small-art](https://github.com/briansegs/pixel-art-maker/blob/main/site-art-small.jpg?raw=true)
