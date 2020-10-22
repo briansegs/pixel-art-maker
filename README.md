@@ -3,6 +3,7 @@
 This is a webpage I made for the "Pixel Art Maker" project from Udacity.
 
 On the webpage you can create beautiful art one pixel at a time!
+
 Some of the features:
 * You can choose your grid size and proportions.
 * Pick from a full pallet of colors.
