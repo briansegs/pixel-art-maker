@@ -12,7 +12,7 @@ Some of the features:
 
 ## How to use the site
 Go to this link: [Pixel Art Maker!](https://briansegs.github.io/pixel-art-maker/)
-1. Select your canvas height and width. Click the submit button to create your new canvas. 
+1. Select your canvas's height and width. Click the submit button to create your new canvas. 
 2. Select the color you'd like to paint with.
 3. Click a block on the canvas to make it the color you have selected.
 4. Have fun and make something cool! 
