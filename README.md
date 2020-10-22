@@ -16,11 +16,11 @@ Go to this link: [Pixel Art Maker!](https://briansegs.github.io/pixel-art-maker/
 3. Click a block on the canvas to make it the color you have selected.
 4. Have fun and make something cool! 
   
+Preview:
+
+![small-art](https://github.com/briansegs/pixel-art-maker/blob/main/site-art-small.jpg?raw=true)
 
 #References
 
 * [For background image pixelation](https://onlinepngtools.com/pixelate-png)
 
-Preview:
-
-![small-art](https://github.com/briansegs/pixel-art-maker/blob/main/site-art-small.jpg?raw=true)
