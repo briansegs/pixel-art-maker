@@ -2,13 +2,13 @@
 
 This is a webpage I made for the "Pixel Art Maker" project from Udacity.
 
-On this webpage you can create beautiful art one pixel at a time!
+On this webpage, you can create beautiful art one pixel at a time!
 
 Some of the features:
 * You can choose your grid size and proportions.
 * Pick from a full pallet of colors.
 * When you want, clear the canvas for a clear start.
-* A site design that will inspire you creativitly.  
+* A site design that will inspire you creatively.  
 
 ## How to use the site
 Go to this link: [Pixel Art Maker!](https://briansegs.github.io/pixel-art-maker/)
